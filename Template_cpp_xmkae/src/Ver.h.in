@@ -1,0 +1,9 @@
+﻿#pragma once
+#define APP_GIT_COMMIT_LONG	    "${GIT_COMMIT_LONG}"
+#define APP_GIT_BRANCH		    "${GIT_BRANCH}"
+#define APP_GIT_TAG			    "${GIT_TAG}"
+#define APP_PLAT				"${PLAT}"
+#define APP_ARCH				"${ARCH}"
+#define APP_MODE				"${MODE}"
+#define APP_VERSION_BUILD	    "${VERSION_BUILD}"
+#define APP_VERSION			    "${VERSION}"
